@@ -1,0 +1,42 @@
+body{
+    background-image: url(back.jpg);
+}
+.container1{
+    block-size: auto;
+    background-color: red;
+    color: white;
+    width: fit-content;
+    margin: auto;
+    
+}
+.container2{
+    display: inline-block;
+    width: fit-content;
+    background-color: white;
+    color: white;
+
+    
+    
+}
+
+.container3{
+    display: inline-block;
+    width:fit-content;
+   
+    color:black;
+    
+}
+.container4{
+    display: inline-block;
+    width:fit-content;
+    background-color:rgb(23, 23, 212) ;
+    color:gold ;
+    
+}
+.container5{
+    display: inline-block;
+    width:fit-content;
+    background-color:rgb(23, 23, 212) ;
+    color:gold ;
+
+}

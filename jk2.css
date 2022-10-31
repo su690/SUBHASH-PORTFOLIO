@@ -1,0 +1,23 @@
+
+.container7{
+    display: inline-block;
+    width: auto;
+    margin: auto;
+    background-color:rgb(167, 167, 241) ;
+    color:gold ;
+
+}
+body{
+    background-image: url(ght.jpg);
+}
+.container8{
+    
+    width: fit-content;
+    margin: auto;
+    background-color: brown;
+    color: white;
+}
+.container9{
+    display: inline-block;
+    width: fit-content;
+}

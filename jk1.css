@@ -1,0 +1,29 @@
+body{
+    background-image: url(jki.jpg);
+}
+.container6{
+    margin:auto;
+    display: inline-block;
+    width: 100%;
+    background-color: snow;
+    color:green ;
+
+}
+.container7{
+    block-size: auto;
+    background-color: red;
+    color: white;
+    width: fit-content;
+    margin: auto;
+}
+.container8{
+    display: inline-block;
+
+}
+.container9{
+    block-size: 40px;
+    background-color: (brown,rebeccapurple);
+
+    color:blue;
+    width: auto;
+}

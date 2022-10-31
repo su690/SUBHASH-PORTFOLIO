@@ -1,0 +1,19 @@
+body{
+    background-image: url(nasa.jpg);
+}
+.container7{
+    
+    margin:auto;
+    width: fit-content;
+    background-color: red;
+    color: white;
+}
+.container11{
+    display:inline-block;
+}
+.container10{
+    display:inline-block;
+    width: 800px;
+    background-color: rgb(54, 54, 220);
+    color: white;
+}
